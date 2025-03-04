@@ -1,2 +1,8 @@
 # automatic-train
-<p>Hello</p>
+<html>
+  <head>
+    <body>
+      <p>Hello</p>
+    </body>
+  </head>
+</html>
